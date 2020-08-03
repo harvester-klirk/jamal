@@ -1,0 +1,64 @@
+﻿  main.cpp
+C:\Users\user\Desktop\OpenCVRoot\masking\main.cpp(111,64): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\user\Desktop\OpenCVRoot\masking\main.cpp(111,108): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\user\Desktop\OpenCVRoot\masking\main.cpp(112,64): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\user\Desktop\OpenCVRoot\masking\main.cpp(112,108): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\user\Desktop\OpenCVRoot\masking\main.cpp(113,64): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\user\Desktop\OpenCVRoot\masking\main.cpp(113,108): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\user\Desktop\OpenCVRoot\masking\main.cpp(114,64): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\user\Desktop\OpenCVRoot\masking\main.cpp(114,108): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\user\Desktop\OpenCVRoot\masking\main.cpp(134,13): warning C4244: 'initializing': conversion from 'const _Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+C:\Users\user\Desktop\OpenCVRoot\masking\main.cpp(135,13): warning C4244: 'initializing': conversion from 'const _Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+C:\Users\user\Desktop\OpenCVRoot\masking\main.cpp(137,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\OpenCVRoot\masking\main.cpp(153,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\OpenCVRoot\masking\main.cpp(156,85): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\user\Desktop\OpenCVRoot\masking\main.cpp(156,57): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  masking.vcxproj -> C:\Users\user\Desktop\OpenCVRoot\masking\x64\Debug\masking.exe

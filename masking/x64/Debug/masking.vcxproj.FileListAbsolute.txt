@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\OpenCVRoot\masking\x64\Debug\masking.exe
+C:\Users\user\Desktop\OpenCVRoot\masking\x64\Debug\masking.pdb
